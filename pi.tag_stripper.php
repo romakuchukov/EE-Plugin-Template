@@ -10,11 +10,11 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
  * ExpressionEngine - by EllisLab
  *
  * @package         ExpressionEngine
- * @author          ExpressionEngine Dev Team
- * @copyright       Copyright (c) 2003 - 2011, EllisLab, Inc.
- * @license         http://expressionengine.com/user_guide/license.html
- * @link            http://expressionengine.com
- * @since           Version 2.0
+ * @author          Roma Kuchukov
+ * @copyright       Copyright (c) 2016, Roma.
+ * @license         
+ * @link            
+ * @since           Version 1.0
  * @filesource
  */
  
@@ -27,7 +27,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
  * @subpackage  Addons
  * @category    Plugin
  * @author      Roma
- * @link
+ * @link        romakuchukov.com
  */
 
 $plugin_info = array(
