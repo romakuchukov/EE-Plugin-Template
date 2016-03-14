@@ -1,7 +1,7 @@
 <?php
 // ------------------------------------------------------------------------
 //
-// USAGE: {exp:tag_stripper}{title}{/exp:tag_stripper}
+// USAGE: {exp:tag_stripper chars="165" inline="..."}{title}{/exp:tag_stripper}
 //
 // ------------------------------------------------------------------------
 
